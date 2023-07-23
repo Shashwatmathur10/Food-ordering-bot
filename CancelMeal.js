@@ -1,4 +1,3 @@
-Cancel Meal Component (CancelMeal.js):
 import React from 'react';
 
 const CancelMeal = ({ onCancelMeal }) => {
