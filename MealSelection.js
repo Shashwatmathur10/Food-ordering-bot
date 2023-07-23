@@ -1,4 +1,3 @@
-Meal Selection Component (MealSelection.js):
 import React from 'react';
 
 const MealSelection = ({ onSelectMeal }) => {
