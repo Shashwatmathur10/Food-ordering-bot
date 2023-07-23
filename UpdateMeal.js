@@ -1,4 +1,3 @@
-Update Meal Component (UpdateMeal.js):
 import React, { useState } from 'react';
 
 const UpdateMeal = ({ selectedMeal, onUpdateMeal }) => {
