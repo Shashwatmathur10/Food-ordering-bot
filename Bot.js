@@ -1,4 +1,3 @@
-Bot Component (Bot.js):
 import React, { useState } from 'react';
 import MealSelection from './MealSelection';
 import UpdateMeal from './UpdateMeal';
